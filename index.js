@@ -1,8 +1,11 @@
 import express, { query } from 'express'
 import objetos from './conf/db/positives.json' assert { type: "json" }
 import {MongoClient} from 'mongodb'
+import cors from 'cors'
 
 const app = express()
+
+app.use(cors())
 const port = 3001
 
 const sendJson = (res) => (json) => res.json(json)
@@ -16,9 +19,7 @@ app.get('/read', async (req, res) => {
 	const docs = await read()
 	res.json(docs)
 })
-app.get('/query', (req, res) => {
-	run();
-})
+
 
 async function read() {
 	const uri = 'mongodb+srv://fpauli:Eko5YTA0QnWnQFnr@cluster0.aecipt3.mongodb.net/?retryWrites=true&w=majority'
