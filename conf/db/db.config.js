@@ -1,6 +1,8 @@
 const MongoClient = require('mongodb').MongoClient;
 const uri = 'mongodb+srv://fpauli:Eko5YTA0QnWnQFnr@cluster0.aecipt3.mongodb.net/?retryWrites=true&w=majority'
 
+const data = require('./data.json');
+
 console.log('ói eu, aqui')
 const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true });
 
@@ -23,9 +25,7 @@ client.connect(err => {
     });
 
     const objetos = [
-        { nome: "Maria", idade: 25, cidade: "Rio de Janeiro" },
-        { nome: "Pedro", idade: 40, cidade: "Belo Horizonte" },
-        { nome: "Ana", idade: 35, cidade: "Curitiba" }
+        ...data
     ];
     
     collection.insertMany(objetos, (err, result) => {

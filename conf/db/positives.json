@@ -1,0 +1,689 @@
+[
+    {
+        "id": "0",
+        "action": 0,
+        "url": "www.google.com",
+        "title": "Dormir sozinho na hora certa sem precisar avisar",
+                "image": "",
+        "reasons": [
+            {
+                "text": "Todo mundo precisa dormir, adultos, crianças, animais.",
+                "agreement": "",
+                "drawing": "url",
+                "danger": 0
+            },
+            {
+                "text": "É dormindo que nosso corpo se livra de toxinas liberadas no nosso corpo, nos tornando mais saudáveis.",
+                "agreement": "",
+                "drawing": "url",
+                "score": 0,
+                "danger": 0
+            },
+            {
+                "text": "Dormindo no mínimo 8 horas por dia, fará qualquer um ficar disposto no outro dia para fazer qualquer coisa Correr, brincar, estudar, jogar, conversar, trabalhar. Energia para tudo.",
+                "agreement": "",
+                "drawing": "url",
+                "score": 0,
+                "danger": 0
+            },
+            {
+                "text": "Crianças, além disso, têm processos de desenvolvimento que ocorrem melhor em repouso. Dormindo se cresce e se fica forte.",
+                "agreement": "",
+                "drawing": "url",
+                "score": 0,
+                "danger": 0
+            }
+        ],
+        "groups": [
+            0
+        ],
+        "label": [
+            0
+        ]
+    },
+    {
+        "id": "1",
+        "action": 0,
+        "url": "www.terra.com.br",
+        "title": "Tomar banho na hora sem precisar avisar",
+                "image": "",
+        "reasons": [
+            {
+                "text": "Crianças, além disso, têm processos de desenvolvimento que ocorrem melhor em repouso. Dormindo se cresce e se fica forte.",
+                "agreement": "",
+                "drawing": "url",
+                "score": 0,
+                "danger": 0
+            },{
+                "text": "Todos os dias! Porque nosso corpo é uma máquina de fazer cheirinho. Cheirinho embaixo dos braços, nos pés, no bumbum, na partinha íntima. Sem fazer nada, essas partes começam a cheirar. Nós somos animaizinhos também, então temos estes probleminhas.",
+                "agreement": "",
+                "drawing": "url",
+                "score": 0,
+                "danger": 0
+            },{
+                "text": "Além disso, a gente sai. Só o primeiro ponto já é suficiente, mesmo ficando em casa. Mas quando saímos, a gente sua mais por se movimentar mais, encosta em coisas sujas (mesmo que não pareçam), senta em lugares públicos, fica imerso num arzinho cheio de poluição. A gente precisa tirar tudo isso do nosso corpo para evitar doenças.",
+                "agreement": "",
+                "drawing": "url",
+                "score": 0,
+                "danger": 0
+            },{
+                "text": "Além das doenças, tomar banho deixa a gente bem cheirosinho e bem mais confortável nas roupas, lençóis, caminha. Se você ainda não percebeu aquela sensação ruim de grudento, repare! É muito mais gostoso ficar limpinho.",
+                "agreement": "",
+                "drawing": "url",
+                "score": 0,
+                "danger": 0
+            },{
+                "text": "Pelos motivos de tomar banho, vimos que tomar banho faz bem para você! Então você deve ser o primeiro a fazer esse bem pra vc!",
+                "agreement": "",
+                "drawing": "url",
+                "score": 0,
+                "danger": 0
+            },{
+                "text": "Para criar responsabilidade. As responsabilidades são desenvolvidas com prática, sendo! E são mais fáceis de se desenvolver se praticadas enquanto ainda criança.",
+                "agreement": "",
+                "drawing": "url",
+                "score": 0,
+                "danger": 0
+            },{
+                "text": "Ter responsabilidade fará a criança, quando adolescente e depois adulta, ter mais facilidade em conseguir suas conquistas.",
+                "agreement": "",
+                "drawing": "url",
+                "score": 0,
+                "danger": 0
+            },
+            {
+                "text": "Quais conquistas? Fazer a faculdade que quiser. Conseguir se organizar para viajar. Ter dinheiro para comprar um casa só para ele, eletrônicos, brinquedos, roupas. Tudo.",
+                "agreement": "",
+                "drawing": "url",
+                "score": 0,
+                "danger": 0
+            },
+            {
+                "text": "E a mamãe já está há 10 anos tendo que te colocar na cama. Por que não dar um descanso para ela e deixá-la cheio de orgulho. Ter que te lembrar de ir dormir e ficar insistindo, deixa ela cansada e triste. Sabia?",
+                "agreement": "",
+                "drawing": "url",
+                "score": 0,
+                "danger": 0
+            }
+        ],
+        "groups": [
+            0
+        ],
+        "label": [
+            1
+        ]
+    },
+    {
+        "id": "2",
+        "action": 0,
+        "url": "www.terra.com.br",
+        "title": "Acordar sozinho na hora certa com despertador sem predir",
+        "image": "",
+        "reasons": [
+            {
+                "text": "Infelizmente para muitas pessoas, a vida tem várias fases em que temos que acordar cedo. Então é bom não brigar com isso. Aceitar que você terá que acordar bem mais cedo do que gostaria muitas vezes vai tornar sua vida melhor. Acredite! Acordar brabo com a vida só vai deixar a vida mais chata.",
+                "agreement": "",
+                "drawing": "url",
+                "score": 0,
+                "danger": 0
+            },
+            {
+                "text": "As vezes, quando chegamos atrasados em algum lugar, podemos provocar vários problemas, tanto para nós, quanto para outras pessoas. Quer ver?",
+                "agreement": "",
+                "drawing": "url",
+                "score": 0,
+                "danger": 0
+            },
+            {
+                "text": "Podemos fazer mais coisas quando acordamos antes. O dia aumentar e corremos menos risco de esquecer as coisas. Sair correndo pode fazer a gente: - Esquecer um material da escola - Não fazer um lanchão gostoso - Não encontrar aquela roupa legal",
+                "agreement": "",
+                "drawing": "url",
+                "score": 0,
+                "danger": 0
+            },
+            {
+                "text": "Pelos motivos de acordar sozinho, vimos que acordar sozinho faz bem para você! Então você deve ser o primeiro a fazer esse bem pra vc!",
+                "agreement": "",
+                "drawing": "url",
+                "score": 0,
+                "danger": 0
+            },
+            {
+                "text": "Para criar responsabilidade. As responsabilidades são desenvolvidas com prática, sendo! E são mais fáceis de se desenvolver se praticadas enquanto ainda criança.",
+                "agreement": "",
+                "drawing": "url",
+                "score": 0,
+                "danger": 0
+            }  
+        ],
+        "groups": [
+            0
+        ],
+        "label": [
+            0
+        ]
+    },
+    {
+        "id": "3",
+        "action": 0,
+        "url": "www.terra.com.br",
+        "title": "Parar de jogar na hora, com ou sem bloqueio, sem pedir",
+                "image": "",
+        "reasons": [
+            {
+                "text": "Jogos eletrônicos fazem com que a mente fique mais agitada, assim como outros sistemas do corpo atuem numa frequência maior. Isso faz com que qualquer um que esteja jogando perca a noção de sono e tenha dificuldade de começar a dormir.",
+                "agreement": "accepted",
+                "drawing": "url",
+                "score": 0,
+                "danger": 0
+            },
+            {
+                "text": "Como nosso hominho tem dificuldade de dormir, ele precisa começar a entrar no ritmo de sono antes da hora de deitar, para quando deitar, capotar.",
+                "agreement": "denied",
+                "drawing": "url",
+                "score": 0,
+                "danger": 0
+            },
+            {
+                "text": "Honestidade! Se estamos combinando isso aqui, que é para o seu bem, e você não cumprir, você é desonesto. Não importa o tamanho da desonestidade. Ser o Bolsonaro e fazer rachadinha é desonestidade. Ser o Heitor e desinstalar o Qustodio ou fingir que não viu o horário de parar, é desonestidade também.",
+                "agreement": "",
+                "drawing": "url",
+                "score": 0,
+                "danger": 0
+            },
+            {
+                "text": "Todos têm uma vida. Adultos também, acredita? Ter que ficar fiscalizando algo que é para o seu bem o tempo todo é chato e desnecessário, não acha?",
+                "agreement": "",
+                "drawing": "url",
+                "score": 0,
+                "danger": 0
+            }    
+        ],
+        "groups": [
+            1
+        ],
+        "label": [
+            2
+        ]
+    },
+    {
+        "id": "4",
+        "action": 0,
+        "url": "www.terra.com.br",
+        "title": "Guardar toda e qualquer comida que pegar",
+        "groups": [
+            1
+        ],
+        "label": [
+            2
+        ]
+    },
+    {
+        "id": "5",
+        "action": 0,
+        "url": "www.terra.com.br",
+        "title": "Largar o celular sempre que em hora de comilança",
+        "groups": [
+            1
+        ],
+        "label": [
+            12
+        ]
+    },
+    {
+        "id": "6",
+        "action": 0,
+        "url": "",
+        "title": "Largar o celular sempre que for para a cozinha",
+        "groups": [
+            1
+        ],
+        "label": [
+            12
+        ]
+    },
+    {
+        "id": "7",
+        "action": 0,
+        "url": "",
+        "title": "Dormir sozinho no próprio quarto sem levantar",
+        "groups": [
+            1
+        ],
+        "label": [
+            0
+        ]
+    },
+    {
+        "id": "8",
+        "action": 0,
+        "url": "",
+        "title": "Comer com a boquinha fechada",
+        "groups": [
+            1
+        ],
+        "label": [
+            12
+        ]
+    },
+    {
+        "id": "9",
+        "action": 0,
+        "url": "",
+        "title": "Lavar a própria louça logo após comer",
+        "groups": [
+            1
+        ],
+        "label": [
+            12
+        ]
+    },
+    {
+        "id": "10",
+        "action": 0,
+        "url": "",
+        "title": "Lavar a louça de todos",
+        "groups": [
+            1
+        ],
+        "label": [
+            12
+        ]
+    },
+    {
+        "id": "11",
+        "action": 0,
+        "url": "",
+        "title": "Tirar toda a bagunça do banheiro",
+        "groups": [
+            1
+        ],
+        "label": [
+            10
+        ]
+    },
+    {
+        "id": "12",
+        "action": 0,
+        "url": "",
+        "title": "Lavar a própria roupa",
+        "groups": [
+            1
+        ],
+        "label": [
+            10
+        ]
+    },
+    {
+        "id": "13",
+        "action": 0,
+        "url": "",
+        "title": "Anotar atividades, trabalhos, eventos e provas do futuro",
+        "groups": [
+            2
+        ],
+        "label": [
+            4
+        ]
+    },
+    {
+        "id": "14",
+        "action": 0,
+        "url": "",
+        "title": "Retomar anotações do dia e mandar bala nos quadros",
+        "groups": [
+            2
+        ],
+        "label": [
+            4
+        ]
+    },
+    {
+        "id": "15",
+        "action": 0,
+        "url": "",
+        "title": "Obedecer rotinas de estudos",
+        "groups": [
+            2
+        ],
+        "label": [
+            4
+        ]
+    },
+    {
+        "id": "16",
+        "action": 0,
+        "url": "",
+        "title": "Entregar todas as atividades em dia",
+        "groups": [
+            2
+        ],
+        "label": [
+            4
+        ]
+    },
+    {
+        "id": "17",
+        "action": 0,
+        "url": "",
+        "title": "Tirar somente notas em provas acima de 8",
+        "groups": [
+            2
+        ],
+        "label": [
+            4
+        ]
+    },
+    {
+        "id": "18",
+        "action": 0,
+        "url": "",
+        "title": "Sabadeira ou domingueira zero computer",
+        "groups": [
+            3
+        ],
+        "label": [
+            2
+        ]
+    },
+    {
+        "id": "",
+        "action": 0,
+        "url": "19",
+        "title": "Fazer pelo menos 1 esporte semanalmente fora da escola",
+        "groups": [
+            3
+        ],
+        "label": [
+            8
+        ]
+    },
+    {
+        "id": "",
+        "action": 0,
+        "url": "",
+        "title": "Criar um blog com desenhos",
+        "groups": [
+            3
+        ],
+        "label": [
+            8
+        ]
+    },
+    {
+        "id": "20",
+        "action": 0,
+        "url": "",
+        "title": "Jogar jogos digitais um tempo máximo por dia",
+        "groups": [
+            3
+        ],
+        "label": [
+            2
+        ]
+    },
+    {
+        "id": "21",
+        "action": 0,
+        "url": "",
+        "title": "Trazer ou ir na casa de um amiguinho por mês",
+        "groups": [
+            3
+        ],
+        "label": [
+            13
+        ]
+    },
+    {
+        "id": "22",
+        "action": 0,
+        "url": "",
+        "title": "Ter um livro para leitura na cabaceira",
+        "groups": [
+            3
+        ],
+        "label": [
+            3
+        ]
+    },
+    {
+        "id": "23",
+        "action": 0,
+        "url": "",
+        "title": "Não ficar mais de um mês com o mesmo livro",
+        "groups": [
+            3
+        ],
+        "label": [
+            3
+        ]
+    },
+    {
+        "id": "24",
+        "action": 0,
+        "url": "",
+        "title": "Descer para brincar pelo menos 2x por semana por 1h",
+        "groups": [
+            3
+        ],
+        "label": [
+            13
+        ]
+    },
+    {
+        "id": "25",
+        "action": 0,
+        "url": "",
+        "title": "Não bater portas (mesmo sem querer)",
+        "groups": [
+            0
+        ],
+        "label": [
+            5
+        ]
+    },
+    {
+        "id": "26",
+        "action": 0,
+        "url": "",
+        "title": "Dar comida para os gatinhos",
+        "groups": [
+            0
+        ],
+        "label": [
+            6
+        ]
+    },
+    {
+        "id": "27",
+        "action": 0,
+        "url": "",
+        "title": "Limpar o coco dos gatinhos",
+        "groups": [
+            0
+        ],
+        "label": [
+            6
+        ]
+    },
+    {
+        "id": "28",
+        "action": 0,
+        "url": "",
+        "title": "Não deixar migalhas no chão",
+        "groups": [
+            0
+        ],
+        "label": [
+            12
+        ]
+    },
+    {
+        "id": "29",
+        "action": 0,
+        "url": "",
+        "title": "Fazer curso de desenho para não ser POGGERS em desenho",
+        "groups": [
+            3
+        ],
+        "label": [
+            8
+        ]
+    },
+    {
+        "id": "30",
+        "action": 0,
+        "url": "",
+        "title": "Criar assets para jogos do Felipe",
+        "groups": [
+            3
+        ],
+        "label": [
+            8
+        ]
+    },
+    {
+        "id": "31",
+        "action": 0,
+        "url": "",
+        "title": "Jogar RPG com família e amigos",
+        "groups": [
+            0
+        ],
+        "label": [
+            13
+        ]
+    },
+    {
+        "id": "32",
+        "action": 0,
+        "url": "",
+        "title": "Não molhar o banheiro feito um pato",
+        "groups": [
+            0
+        ],
+        "label": [
+            1
+        ]
+    },
+    {
+        "id": "33",
+        "action": 0,
+        "url": "",
+        "title": "Não largar nem mochilas, nem objetos grandes, nem roupas",
+        "groups": [
+            0
+        ],
+        "label": [
+            10
+        ]
+    },
+    {
+        "id": "34",
+        "action": 0,
+        "url": "",
+        "title": "Arrumar a própria cama",
+        "groups": [
+            1
+        ],
+        "label": [
+            10
+        ]
+    },
+    {
+        "id": "35",
+        "action": 0,
+        "url": "",
+        "title": "Ter controle dos seus ganhos e gastos",
+        "groups": [
+            1
+        ],
+        "label": [
+            9
+        ]
+    },
+    {
+        "id": "36",
+        "action": 0,
+        "url": "",
+        "title": "Prestar contas dos gastos e projeções futuras",
+        "groups": [
+            1
+        ],
+        "label": [
+            11
+        ]
+    },
+    {
+        "id": "37",
+        "action": 0,
+        "url": "",
+        "title": "Receber feedback e aprender sobre eles (não reincidir)",
+        "groups": [
+            1
+        ],
+        "label": [
+            11
+        ]
+    },
+    {
+        "id": "38",
+        "action": 0,
+        "url": "",
+        "title": "Pagar as contas sob sua responsabilidade",
+        "groups": [
+            1
+        ],
+        "label": [
+            9
+        ]
+    },
+    {
+        "id": "39",
+        "action": 0,
+        "url": "",
+        "title": "Ajudar no preparo do almoço",
+        "groups": [
+            0
+        ],
+        "label": [
+            12
+        ]
+    },
+    {
+        "id": "40",
+        "action": 0,
+        "url": "",
+        "title": "Passar desodorante e não feder a toa",
+        "groups": [
+            0
+        ],
+        "label": [
+            1
+        ]
+    },
+    {
+        "id": "41",
+        "action": 0,
+        "url": "",
+        "title": "Deixar o copo na pia ou qualquer lugar sem lavar depois de usar",
+        "groups": [
+            0
+        ],
+        "label": [
+            10
+        ]
+    },
+    {
+        "id": "42",
+        "action": 0,
+        "url": "",
+        "title": "Fazer o próprio lanche de manhã",
+        "groups": [
+            1
+        ],
+        "label": [
+            10
+        ]
+    }
+]
